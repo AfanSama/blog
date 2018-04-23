@@ -15,7 +15,6 @@ tags:
 </ul>
 ```
 
-
 ```css
 ul {
     display: flex;
