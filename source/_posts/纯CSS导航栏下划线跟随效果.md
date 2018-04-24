@@ -60,7 +60,7 @@ li::before {
     content: "";
     position: absolute;
     top: 0;
-    right: 0;
+    left:100%;
     width: 0;
     height: 100%;
     border-bottom: 2px solid #000;
