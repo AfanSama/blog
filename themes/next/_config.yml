@@ -126,8 +126,8 @@ scheme: Mist
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/yourname || github
+social:
+  GitHub: https://github.com/AfanSama
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -149,8 +149,8 @@ links_title: 友情链接
 #links_layout: block
 #links_layout: inline
 links:
- github : https://github.com/AfanSama
- liaojian : http://www.liaojian.top
+ liaojian : https://www.liaojian.top
+ Schaffer : https://schafferwang0818.github.io/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
